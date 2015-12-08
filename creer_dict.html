@@ -1,0 +1,54 @@
+<?php
+
+set_time_limit(900);
+
+function autocomplete_analyser_dictionnaire($rep, $dict, $exceptions) {
+
+	include_spip('inc/charsets');
+	$ab = '';
+
+	$exceptions = array_map('trim', file($exceptions));
+
+	foreach( file($dict) as $l ) {
+		if (ord($l) == 2) {
+			list($keyword,$docs,$hits,$offset) = explode(',', substr($l,1));
+			if (!in_array($keyword, $exceptions)) {
+				$_ab = strtolower(translitteration(mb_substr($keyword, 0, 2)));
+				if ($_ab !== $ab) {
+					autocomplete_save($ab, $mots, $rep);
+					$ab = $_ab;
+					$mots = [];
+				}
+				// conserver les mots ayant un nombre suffisant d'occurrences
+				if ($hits >= 3) {
+					$mots[$keyword] = $hits;
+				}
+			}
+		}
+	}
+
+	autocomplete_save($ab, $mots, $rep);
+}
+
+// enregistrer la liste ab - triée par hits décroissants
+function autocomplete_save($ab, $mots, $rep) {
+	if (empty($mots)) return;
+	if (!preg_match(',[a-z][a-z],S', $ab)) return;
+
+	arsort($mots);
+	$dump = join("\n", array_keys($mots));
+	$a = mb_substr($ab, 0,1);
+	if (!is_dir($rep.'/'.$a)) mkdir ($rep.'/'.$a);
+	$res = ($fp = fopen($rep.'/'.$a.'/'.$ab.'.txt', 'w'))
+	&& fwrite ($fp, $dump)
+	&& fclose ($fp);
+	spip_log("autocomplete dict $ab " . count($mots) . " ($res)");
+	return $res;
+}
+
+
+autocomplete_analyser_dictionnaire(
+	find_in_path('autocomplete'),
+	find_in_path('autocomplete/indexrt.dict.txt'),
+	find_in_path('autocomplete/exceptions.txt')
+);

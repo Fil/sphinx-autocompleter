@@ -1,0 +1,8 @@
+jsp
+jsc
+js
+jsap
+jsa
+jsessionid
+jsw
+jstor

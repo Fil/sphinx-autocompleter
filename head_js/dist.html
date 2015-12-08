@@ -1,0 +1,16 @@
+<!-- autocomplete -->
+[<script type="text/javascript" src="(#CHEMIN{prive/javascript/ui/core.js})"></script>]
+[<script type="text/javascript" src="(#CHEMIN{prive/javascript/ui/widget.js})"></script>]
+[<script type="text/javascript" src="(#CHEMIN{prive/javascript/ui/position.js})"></script>]
+[<script type="text/javascript" src="(#CHEMIN{prive/javascript/ui/menu.js})"></script>]
+[<script type="text/javascript" src="(#CHEMIN{prive/javascript/ui/autocomplete.js})"></script>]
+[<link rel="stylesheet" href="(#CHEMIN{css/ui/all.css})" type="text/css" media="all" />]
+[<link rel="stylesheet" href="(#CHEMIN{css/ui/autocomplete.css})" type="text/css" media="all" />]
+<script type="text/javascript">
+$(function() {
+    $( "#recherche").autocomplete({
+          source: "spip.php?action=sphinx_autocomplete",
+          minLength: 2,
+    });
+});
+</script>

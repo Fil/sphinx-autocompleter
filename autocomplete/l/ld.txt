@@ -1,0 +1,8 @@
+ldk
+ldh
+ldpr
+ld
+ldt
+ldx
+ldj
+lddf

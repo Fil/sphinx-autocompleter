@@ -1,0 +1,7 @@
+jci
+jcc
+jc
+jcdc
+jcats
+jcs
+jcall

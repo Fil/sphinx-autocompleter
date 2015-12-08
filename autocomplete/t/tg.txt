@@ -1,0 +1,5 @@
+tgv
+tgcc
+tgi
+tgw
+tga
