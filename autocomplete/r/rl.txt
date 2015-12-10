@@ -1,3 +1,2 @@
 rl
-rls
-rlepnice
+rlepnic

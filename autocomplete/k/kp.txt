@@ -1,9 +1,8 @@
 kpd
 kpfa
 kpmg
-kprf
-kps
 kp
+kprf
 kpi
 kpn
 kpc

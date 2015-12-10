@@ -1,12 +1,10 @@
-sbires
-sbs
+sbire
+sb
 sbt
 sbeitla
 sbsi
 sbc
 sbp
-sb
-sberbank
 sbeih
+sberbank
 sbeineh
-sbire

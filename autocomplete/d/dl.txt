@@ -1,5 +1,5 @@
 dlimi
 dl
 dlamini
-dlrs
+dlr
 dlf

@@ -1,7 +1,6 @@
 hlm
-hls
-hlaing
-hlbe
-hlangeni
 hl
+hla
+hlangeni
+hlbe
 hlinka

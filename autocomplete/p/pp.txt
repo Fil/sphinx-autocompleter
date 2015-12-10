@@ -7,14 +7,13 @@ ppr
 ppe
 ppte
 ppm
-pps
 ppf
 ppi
 ppo
-ppt
-ppv
 ppda
+ppt
 ppdam
+ppv
 ppld
 ppu
 ppk

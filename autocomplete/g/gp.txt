@@ -1,7 +1,6 @@
-gps
-gpl
 gp
+gpl
 gpra
 gpo
-gpa
 gpi
+gpa

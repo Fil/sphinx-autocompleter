@@ -9,10 +9,10 @@ msv
 mszp
 msh
 msn
-msimang
 msa
-mszmp
-msz
+msimang
 msm
 msedi
+mszmp
+msz
 msx

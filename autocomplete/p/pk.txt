@@ -1,7 +1,6 @@
 pkk
 pk
-pki
 pkp
+pki
 pkd
 pku
-pks

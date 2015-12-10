@@ -1,6 +1,6 @@
 kbr
 kbm
-kbs
-kbl
+kb
 kbc
+kbl
 kbd

@@ -1,8 +1,7 @@
 gmt
 gm
-gms
-gmail
 gmbh
+gmail
 gmf
 gmac
 gmb

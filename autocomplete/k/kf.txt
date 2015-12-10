@@ -2,7 +2,8 @@ kfor
 kfar
 kfir
 kfc
-kft
 kff
+kft
 kfw
 kfile
+kf

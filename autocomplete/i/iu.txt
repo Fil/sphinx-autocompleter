@@ -1,8 +1,7 @@
 iuml
 iut
-iufm
 iu
-iued
+iufm
 iucn
 ius
 iudop

@@ -1,10 +1,8 @@
 ltd
 ltte
-ltcm
 lto
 lt
+ltcm
 ltdh
-lts
-ltos
 ltda
 ltep

@@ -1,9 +1,10 @@
 qom
-qods
+qod
 qorei
 qotb
 qorri
 qoussair
 qosja
 qoussai
-qorie
+qoud
+qori

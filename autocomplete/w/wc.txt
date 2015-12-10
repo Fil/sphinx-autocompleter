@@ -1,8 +1,7 @@
 wc
-wcms
+wcm
 wctc
 wclac
 wci
 wc1h
 wcc
-wcm

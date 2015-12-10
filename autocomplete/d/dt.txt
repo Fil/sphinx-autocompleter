@@ -1,7 +1,6 @@
 dt
-dts
 dtp
 dta
 dtsee
-dtn
 dtic
+dtn

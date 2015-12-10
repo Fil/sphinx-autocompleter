@@ -1,9 +1,7 @@
 lci
 lcr
 lc
-lcm
 lca
+lcm
 lcp
-lcy
 lchr
-lcs

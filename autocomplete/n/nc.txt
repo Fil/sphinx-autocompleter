@@ -3,10 +3,12 @@ nc
 ncn
 ncp
 nclb
-ncmp
 ncbi
 nca
-ncadc
+ncmp
+nci
 nchanga
+ncadc
 ncfap
+nce
 nchama

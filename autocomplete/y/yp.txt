@@ -1,5 +1,5 @@
 ypf
-yperite
-ypres
+yperit
+ypre
 ypfb
 ypg

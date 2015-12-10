@@ -1,11 +1,10 @@
 pdf
 pdg
-pds
+pd
 pdk
 pdci
 pdpa
 pdvsa
-pd
 pdp
 pdki
 pdi
@@ -15,12 +14,11 @@ pdj
 pdt
 pdl
 pdlp
-pdfs
 pdu
 pdsr
+pdpr
 pdm
 pdsh
-pdpr
 pdup
 pdd
 pdv

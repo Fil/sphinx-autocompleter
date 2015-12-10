@@ -1,14 +1,13 @@
 rda
 rdc
 rdr
-rdv
 rd
+rdv
 rdpc
-rds
 rdp
-rdcongo
 rdvn
-rdpy
+rdcongo
 rdpl
+rdpi
 rdie
 rdf

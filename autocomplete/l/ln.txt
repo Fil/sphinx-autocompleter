@@ -2,9 +2,8 @@ ln
 lnd
 lng
 lnde
-lnr
-lnternational
 lnstitut
-lngouches
+lnr
+lnternat
+lngouch
 lnoc
-lnstitute

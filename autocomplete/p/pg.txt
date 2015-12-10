@@ -1,7 +1,6 @@
 pgm
 pg
 pge
-pgp
 pgr
-pgms
+pgp
 pgt

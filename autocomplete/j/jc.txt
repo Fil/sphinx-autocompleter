@@ -1,7 +1,6 @@
 jci
-jcc
 jc
+jcc
 jcdc
-jcats
-jcs
+jcat
 jcall

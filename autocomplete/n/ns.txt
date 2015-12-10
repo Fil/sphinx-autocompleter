@@ -16,7 +16,7 @@ nst
 nsdd
 nsg
 nsd
-nsanze
+nsanz
 nsu
 nsafou
 nsic

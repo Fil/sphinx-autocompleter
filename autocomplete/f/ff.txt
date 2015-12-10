@@ -1,5 +1,4 @@
 ff
-ffs
 ffffcc
 ffffff
 ffkm
@@ -11,10 +10,10 @@ fff
 ff9900
 ffsa
 ffert
-ff0000
-fft
 ffr
+fft
+ffme
 ff6666
 ffd
 ff9999
-ffme
+ff0000

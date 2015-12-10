@@ -1,6 +1,5 @@
 rbmk
-rbas
-rbm
-rby
-rbs
+rba
 rb
+rbm
+rbi

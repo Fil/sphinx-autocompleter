@@ -1,3 +1,4 @@
+#CACHE{0}
 <?php
 
 set_time_limit(900);
@@ -9,9 +10,17 @@ function autocomplete_analyser_dictionnaire($rep, $dict, $exceptions) {
 
 	$exceptions = array_map('trim', file($exceptions));
 
-	foreach( file($dict) as $l ) {
-		if (ord($l) == 2) {
-			list($keyword,$docs,$hits,$offset) = explode(',', substr($l,1));
+	$start = false;
+
+	foreach( file($dict) as $k => $l ) {
+
+		if ($k%100===0) echo $k,", ";
+
+		list($keyword,$docs,$hits,$offset) = explode(',', $l);
+		if ($keyword === 'keyword'
+		AND $docs === 'docs') $start = true;
+
+		if ($start AND ord($l) != 2) {
 			if (!in_array($keyword, $exceptions)) {
 				$_ab = strtolower(translitteration(mb_substr($keyword, 0, 2)));
 				if ($_ab !== $ab) {

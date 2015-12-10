@@ -1,13 +1,12 @@
 dpi
+dp
 dpa
 dpc
-dp
-dps
 dpp
 dpmne
-dpg
 dpuf
 dpsd
+dpg
 dpni
 dpn
 dppc

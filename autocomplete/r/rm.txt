@@ -1,8 +1,8 @@
 rmi
-rmistes
-rmc
+rmist
 rm
+rmc
 rma
-rmbs
-rmiste
+rmb
 rmeich
+rme

@@ -1,8 +1,8 @@
 rrc
 rr
-rrts
+rrt
+rrom
 rrez
 rreshen
-rrushkull
-rroms
+rrushkul
 rripe

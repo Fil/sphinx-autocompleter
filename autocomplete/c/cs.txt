@@ -2,7 +2,7 @@ csce
 csu
 csg
 csa
-csis
+csi
 csfa
 csp
 csf
@@ -11,16 +11,15 @@ cs
 css
 csc
 csn
-csi
 cst
-csj
 cse
+csj
 csr
 csurka
 csl
 cssd
 csaba
-csoes
+csoe
 cspla
 csv
 csepel

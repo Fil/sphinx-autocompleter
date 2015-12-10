@@ -3,7 +3,6 @@ rca
 rctv
 rcn
 rc
-rcps
 rcp
-rci
 rch
+rci

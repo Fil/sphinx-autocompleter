@@ -1,9 +1,8 @@
 rnd
 rn
-rnis
-rnr
-rna
-rne
 rni
+rna
+rnr
+rne
 rnscm
 rnb

@@ -6,7 +6,9 @@ rscg
 rsfsr
 rssa
 rssq14
-rsfy
+rsfi
 rspfp
 rsha
+rsi
+rsc
 rspo

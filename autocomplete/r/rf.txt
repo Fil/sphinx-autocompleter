@@ -1,10 +1,9 @@
 rfa
 rfi
-rfy
 rf
 rfe
-rferl
 rfid
+rferl
 rfo
 rff
 rfm

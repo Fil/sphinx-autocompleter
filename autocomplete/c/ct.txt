@@ -3,13 +3,14 @@ ct
 ctv
 ctp
 cte
-ctexte
+ctext
 ctm
 ctc
-ctbc
 cta
+ctbc
 ctrl
 ctesiphon
-ctci
 ctb
+ctci
 cti
+ction

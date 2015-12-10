@@ -1,9 +1,7 @@
-cbs
-cbi
 cb
-cbn
+cbi
 cbo
-cbos
+cbn
 cblt
 cbrn
 cbc

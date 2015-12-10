@@ -1,6 +1,6 @@
-gjakove
+gjakov
 gjika
 gjilan
-gjirokaster
+gjirokast
 gjestvang
 gjeli

@@ -6,4 +6,4 @@ uap
 uac
 uaeiab
 uand
-uacute
+uacut

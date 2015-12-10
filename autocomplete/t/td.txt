@@ -2,6 +2,6 @@ td
 tdf
 tdr
 tdf1
-tdedate
+tdedat
 tdc
 tde

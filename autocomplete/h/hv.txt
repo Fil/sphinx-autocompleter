@@ -1,5 +1,4 @@
 hvo
 hv
 hveem
-hvs
 hvar

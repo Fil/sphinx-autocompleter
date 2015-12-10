@@ -1,10 +1,8 @@
-bmw
 bm
-bms
+bmw
 bma
+bmi
 bmj
 bmg
-bmi
-bmis
 bmd
 bmft

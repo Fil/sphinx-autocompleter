@@ -5,4 +5,5 @@ ld
 ldt
 ldx
 ldj
+ldc
 lddf

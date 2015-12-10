@@ -2,10 +2,9 @@ uit
 ui
 uimm
 uicn
-uige
+uig
 uil
 uid
 uita
-uic
-uis
 uip
+uic

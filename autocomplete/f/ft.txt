@@ -6,5 +6,5 @@ ftq
 ftaa
 fte
 ftcr
-ftms
+ftm
 ftn
